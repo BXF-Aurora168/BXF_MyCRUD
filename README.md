@@ -19,3 +19,21 @@ Exercise project -Servlet to achieve database additions, deletions, changes and 
 5.撰稿人界面：能够实现发布稿件的功能，实现查看本人发布的新闻，修改或者删除本人发布的新闻。
 
 6.用户界面：能够实现查看浏览新闻，有搜索框能实现模糊查询。
+
+this project is written purely with servlets, which is my practice project, without jsp, of course, in fact, it is more convenient to make mixed jsp, but I think jsp page is easy to write,
+
+But this small system directly with servlet is enough, also more concise, and after all, jsp is in fact a more convenient form of servlet, in essence or servlet,
+
+Currently implemented functions:
+
+1. It can realize the login and registration of different users.
+
+2. It can jump to different user pages according to different user identities, including ordinary users, contributors and administrators.
+
+3. Prevent illegal login.
+
+4. Administrator interface: You can modify user account information, including password and identity, and delete user account information.
+
+5. Contributor interface: It can realize the function of publishing manuscripts, viewing news published by oneself, and modifying or deleting news published by oneself.
+
+6. User interface: It can realize viewing and browsing news, and the search box can realize fuzzy query.
